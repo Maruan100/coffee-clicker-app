@@ -13,4 +13,4 @@ npm run dev
 
 ## Demo live
 
-coffee-clicker-app.web.app/
+https://coffee-clicker-app.web.app
